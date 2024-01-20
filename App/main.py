@@ -213,7 +213,9 @@ def main():
         layout="wide",
         initial_sidebar_state="expanded"
     )
-    with open("assets/style.css") as f:
+    current = os.path.dirname(os.path.realpath(__file__))
+    css_file_path = os.path.join(current, "../assets/style.css")
+    with open(css_file_path) as f:
         st.markdown("<style>{}</style>".format(f.read()),unsafe_allow_html=True)
     
 
