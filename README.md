@@ -24,3 +24,5 @@ To start the app, simply run the following command:
 ```bash
 streamlit run app.py
 ```
+## UI
+[UI]([https://app-breast-cancer-app-mwz57m7uhackitp5vy6siw.streamlit.app/](https://github.com/Shravan-Parikh/Streamlit-Breast-cancer-APP/blob/master/Image/Screenshot%202024-01-29%20160735.png)https://github.com/Shravan-Parikh/Streamlit-Breast-cancer-APP/blob/master/Image/Screenshot%202024-01-29%20160735.png)
